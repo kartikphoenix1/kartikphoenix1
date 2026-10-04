@@ -44,3 +44,11 @@ I'm a student getting into AI and ML. Most of what I know so far is from buildin
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikphoenix1/kartikphoenix1/output/github-snake.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/kartikphoenix1/kartikphoenix1/output/github-snake.svg">
 </picture>
+
+## Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikphoenix1/kartikphoenix1/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikphoenix1/kartikphoenix1/pacman/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kartikphoenix1/kartikphoenix1/pacman/pacman-contribution-graph.svg">
+</picture>
